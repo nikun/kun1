@@ -4,4 +4,8 @@ bug12
 bug13
 edicion masterssss
 NICOMASTER
+<<<<<<< HEAD
 Leo
+=======
+-------------------------cambio nico 2/5/13---------------------
+>>>>>>> ea789955f8eca26540c48cecb34898be5531a97e
